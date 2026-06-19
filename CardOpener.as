@@ -1,5 +1,5 @@
 ﻿{
-  "version":"3",
+  "version":"4",
   "version_beta":"1",
   "source":"",
   "compiled":"https://github.com/idgafboom/mhk_CardOpener/releases/download/CardOpener/CardOpener_exe.zip",
